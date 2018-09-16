@@ -1,0 +1,20 @@
+
+.error-msg{
+  color: red;
+  padding-left: 15px;
+  padding-top: 10px;
+  font-size: 18px;
+}
+
+.am-tab-bar {
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+}
+
+.am-nav-bar{
+  position: fixed;
+  top: 0;
+  width: 100%;
+}
+
